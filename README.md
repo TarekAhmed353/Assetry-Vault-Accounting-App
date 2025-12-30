@@ -1,4 +1,5 @@
 Assetry-Vault-accounting-app: 
+
 Assetry Vault is a Flutter-based accounting application designed to manage journal entries, ledgers, and generate essential financial reports.
 
 
@@ -17,10 +18,11 @@ User authentication.
 
 
 Tech Stack Used:-
-Flutter (Dart)
+Flutter (Dart).
 
-SQLite (sqflite)
+SQLite (sqflite).
 
 
 Purpose:
+
 Built as a learning and portfolio project to demonstrate practical accounting logic and Flutter app development.
